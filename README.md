@@ -1,6 +1,6 @@
 # Analysis_Data_Projects
 
-This repository contains three data analysis projects showcasing different techniques and methodologies applied to various datasets. Each project includes detailed steps, code, and results. These projects are intended solely for learning and practice purposes.
+This repository contains data analysis projects showcasing different techniques and methodologies applied to various datasets. Each project includes detailed steps, code, and results. These projects are intended solely for learning and practice purposes.
 
 ## Projects
 
